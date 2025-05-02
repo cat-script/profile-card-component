@@ -27,7 +27,8 @@ body {
   background:
     url(./images/bg-pattern-top.svg),
     url(./images/bg-pattern-bottom.svg);
-  background-position: -50% 300%, 150% -210%;
+  background-position: top -460px left -180px, bottom -580px right -120px;
+  background-size: 60%;
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
